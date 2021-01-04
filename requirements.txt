@@ -1,0 +1,7 @@
+keras==2.1.5
+tensorflow==1.6.0
+moviepy
+keras_vggface
+prefetch_generator
+face-alignment
+opencv-python
